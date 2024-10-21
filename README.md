@@ -1,2 +1,2 @@
 # Matlab-scripts
-I made individual script files in this repository for various things, whether for college or independent stuff. 
+This repository contains individual script files for various uses, whether for college or independent stuff. 
